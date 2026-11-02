@@ -4,8 +4,6 @@ Sol's RNG 的電腦多開Macro。給需要多開的人用。
 
 天氣改變就會傳到 Discord。直接讀 Roblox 自己寫的 log，所以不是 OCR、也不用一直截圖。
 
-**v0.3.0-beta.2**（Beta 2）。視窗標題是 `Overture哥のMulti Macro v0.3.0-beta.2`。有問題再跟我講就好。
-
 ---
 
 ## 它會幹嘛
@@ -133,3 +131,5 @@ A: 看 Eden 頁狀態。沒有 `OvertureCaptureHelper.exe` 的話，被蓋住的
 
 **Q: 換電腦怎麼搬？**  
 A: 安全匯出（不含 cookie）最穩，到新電腦再登入一次。含 cookie 的完整匯出只在你自己能控制的電腦之間用，用完刪掉。
+
+此Macro 參考了Multiscope和J.JARAM
